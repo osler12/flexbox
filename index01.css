@@ -42,11 +42,11 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
-    transition: color 0.5s ease; /* Transición para el cambio de color */
+    transition: color 0.5s ease; 
 }
 
 nav ul li a:hover {
-    color: #FFD700; /* Cambiar a color dorado al pasar el puntero */
+    color: #FFD700;
 }
 
 aside {
